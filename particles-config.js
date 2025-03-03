@@ -102,5 +102,4 @@ window.onload = function() {
         particlesJS("particles-js", /* misma configuración de arriba */);
     }
     
-    console.log("Particles.js debería estar funcionando ahora. Si no ves las partículas, verifica que el div con id 'particles-js' exista en tu HTML.");
 };
